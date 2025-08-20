@@ -6,6 +6,10 @@ import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
 public class TestConverter {
+  // In this lab, I will write the tests for you to give you
+  // an example of what they should look like. In the future,
+  // you will be responsible for writing the tests. Update the
+  // Converter class to make these tests pass.
 
   Converter converter;
 
